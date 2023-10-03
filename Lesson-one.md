@@ -3,9 +3,10 @@ Tutorial for  Git basics :octocat:. This tutorial has three sections:
 ![git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/a8ba92da-659e-46d9-a84a-8dd51acd6b3f)
 ![github](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/c3711e7f-d0d8-4646-afaf-e585085c06ea)
 
-1.Git
-2.GitHub
-3.Using Git
+
+*.Git
+*.GitHub
+*.Using Git
 
 For a more in depth understanding of today lesson visit these links 
 
@@ -19,6 +20,8 @@ DZone website
 https://dzone.com/articles/top-20-git-commands-with-examples
 
 # 1. Git : 
+
+![git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/a8ba92da-659e-46d9-a84a-8dd51acd6b3f)
 
 ## 1.0 What is Git, Etymology and a short history.
 * [ ] Version Control (aka Revision control, source control)
@@ -34,12 +37,32 @@ Most of the the times you've heard fellow developers  🗣️ talking about coll
 
 ## 1.2 Installing Git
 What is git exactly 
-Git is a version-control system but really what it boils down to is a sytem for naming files 
+Git is a version-control system but really what it boils down to is a system for naming files 
+
+
+Linus Torvalds
+
+
+
+
+
+![git-inv](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/1e1e6f15-2371-4c64-a2c6-4d03f47e4070)
+
+
+
+Linus Torvalds, creator of Linux, along with others in the Linux development community, built and released Git in 2005. They undertook the project because there was a lack of free and open source version control systems that could meet their requirements for Linux kernel development.
+
+![linux-achiev](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/d567f3e9-03ea-4d3e-a8fd-07e29928de79)
+
+
+He was a key figure in collaboration today as we know it 
+
 When creating a software ,it is a series of small milestones where each milestone 🪨 is wring code and a bunch of different  files your app will constantly move from a state of chaos 🔥 to stability 🌊 and gives you a way to track these changes and create branches that you can experiment 🧪 on and merge them later
+
 it is used for 
--Tracking code changes
--Tracking who made changes
--Coding collaboration
+*Tracking code changes
+*Tracking who made changes
+*Coding collaboration
 
 What does Git do? 🤔
 Manage projects with Repositories
@@ -86,6 +109,8 @@ Push local updates to the main project
 ```
 
 # 2. GitHub: 
+
+![github](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/c3711e7f-d0d8-4646-afaf-e585085c06ea)
 
 ## 2.1 What is GitHub 
  GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.🌍
@@ -146,6 +171,9 @@ That’s it, you now have your very own GitHub account. 🎉
 
 
 # 3. Using Git
+
+![git-img](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/e8f2ac77-91b9-40aa-9761-7ed1b1d2ce3e)
+
 
 ## 3.1 Setting up Git to connect to Github account
 To set your git username type this in the terminal
