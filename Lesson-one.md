@@ -1,6 +1,3 @@
-![git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/a8ba92da-659e-46d9-a84a-8dd51acd6b3f)
-![github](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/c3711e7f-d0d8-4646-afaf-e585085c06ea)
-
 
 Tutorial for  Git basics :octocat:. This tutorial has three sections:
 1.Git
