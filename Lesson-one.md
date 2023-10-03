@@ -25,7 +25,7 @@ https://dzone.com/articles/top-20-git-commands-with-examples
 * [ ] GIT: Global Information Tracker or the stupid content tracker or unpleasant person in British slang
 
 ## 1.1 Understanding Git and Github 
-Most of the the times you've heard fellow developers  🗣️ talking about collaboration and are often wondering 🤔 what is that but worry no more after this lesson youll be git and github "pro" 😎 coder 
+Most of the the times you've heard fellow developers  🗣️ talking about collaboration and are often wondering 🤔 what is that but worry no more ,after this lesson you'll be a git and github "pro" 😎 coder 
 
 
 ![setting-git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/b951d840-6e25-4c4d-aefe-4224c53de2f1)
