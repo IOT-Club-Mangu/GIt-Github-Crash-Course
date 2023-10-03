@@ -1,4 +1,6 @@
 Tutorial for  Git basics :octocat:. This tutorial has three sections:
+![git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/a8ba92da-659e-46d9-a84a-8dd51acd6b3f)
+![github](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/c3711e7f-d0d8-4646-afaf-e585085c06ea)
 
 1.Git
 2.GitHub
@@ -17,12 +19,33 @@ https://dzone.com/articles/top-20-git-commands-with-examples
 
 # 1. Git : 
 
-## 1.1 What is Git, Etymology and a short history.
+## 1.0 What is Git, Etymology and a short history.
 * [ ] Version Control (aka Revision control, source control)
 * [ ] Distributed version control system, Linus Torvalds, 2005
 * [ ] GIT: Global Information Tracker or the stupid content tracker or unpleasant person in British slang
 
+## 1.1 Understanding Git and Github 
+Most of the the times you've heard fellow developers  🗣️ talking about collaboration and are often wondering 🤔 what is that but worry no more after this lesson youll be git and github "pro" 😎 coder 
+![setting-git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/b951d840-6e25-4c4d-aefe-4224c53de2f1)
+
+
 ## 1.2 Installing Git
+What is git exactly 
+Git is a version-control system but really what it boils down to is a sytem for naming files 
+When creating a software ,it is a series of small milestones where each milestone 🪨 is wring code and a bunch of different  files your app will constantly move from a state of chaos 🔥 to stability 🌊 and gives you a way to track these changes and create branches that you can experiment 🧪 on and merge them later
+it is used for 
+-Tracking code changes
+-Tracking who made changes
+-Coding collaboration
+
+What does Git do? 🤔
+Manage projects with Repositories
+Clone a project to work on a local copy
+Control and track changes with Staging and Committing
+Branch and Merge to allow for work on different parts and versions of a project
+Pull the latest version of the project to a local copy
+Push local updates to the main project
+
  For Windows,
  install Git for Windows:
  https://git-scm.com/download/win
@@ -136,7 +159,8 @@ You will be asked to authenticate your GitHub account, so just sign in with the 
 
 ## 3.2 Create a repo on Github
 
-![Uploading newRepo-1.png…]()
+![newRepo2-1](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/1c8c2a5a-3c31-46c8-b3a0-b38d16a15bc4)
+
 
 Click the + sign at the top right corner to create a new repository. Repositories are like your code folders online.
 
@@ -185,4 +209,6 @@ Replace the URL with the repository you created in step 3.3
  $git push -u origin master
 ```
 
-That's it we are done with the first lesson covering  Basics of Git ,Github and Vscode integration
+That's it we are done with the first lesson covering  Basics of Git ,Github and Vscode integration and are ready to be a kickass developer 
+![ending](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/28022b03-81e0-410e-bc11-5822ccef9ee7)
+
