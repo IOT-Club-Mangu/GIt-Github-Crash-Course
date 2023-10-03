@@ -1,1 +1,1 @@
-![gitimg](https://github.com/IOT-Club-Mangu/Git-Github-Crash-Course/assets/98217039/b2296280-717c-4d23-bd1c-eb7af9fd9c1d)
+![git-vs-github](https://github.com/IOT-Club-Mangu/Git-Github-Crash-Course/assets/98217039/123e2ea7-e453-40f1-8cd1-f2f566b66e3d)
