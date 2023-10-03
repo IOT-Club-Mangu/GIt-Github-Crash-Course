@@ -185,4 +185,4 @@ Replace the URL with the repository you created in step 3.3
  $git push -u origin master
 ```
 
-That's it we are done with the first lesson covering 
+That's it we are done with the first lesson covering  Basics of Git ,Github and Vscode integration
