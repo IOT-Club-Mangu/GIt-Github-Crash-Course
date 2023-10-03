@@ -4,6 +4,17 @@ Tutorial for  Git basics :octocat:. This tutorial has three sections:
 2.GitHub
 3.Using Git
 
+For a more in depth understanding of today lesson visit these links 
+
+Tech with Tim Channel
+https://www.youtube.com/watch?v=jG4Vs81kMlc&pp=ygUOZ2l0IGFuZCBnaXRodWI%3D
+
+FreeCodeCamp Channel
+https://www.youtube.com/watch?v=RGOj5yH7evk&pp=ygUOZ2l0IGFuZCBnaXRodWI%3D
+
+DZone website
+https://dzone.com/articles/top-20-git-commands-with-examples
+
 # 1. Git : 
 
 ## 1.1 What is Git, Etymology and a short history.
@@ -138,7 +149,10 @@ Click the "Create repository" button to create the repository. You will be promp
 
 
 ## 3.3 Push your Local Code to github
-open a folder and add some files (.html .js .php)
+For a more indepth analysis on setting up vscode and git watch this video 
+https://www.youtube.com/watch?v=lYiE5lBS13E&pp=ygUYZ2l0IGFuZCBnaXRodWIgaW4gdnNjb2Rl
+
+open a folder with some files or  add some files (.html .js .php)
 You can use the code editor built-in terminal to use Git to push your code to GitHub. Click ctrl + shift + ' to open the terminal in VSCode.
 
 Input the commands below one after the other in your terminal. Press the Enter key to proceed after every input.
@@ -159,7 +173,7 @@ git push -u origin main
 ```
 
 ## 3.4 Pushing changes
-```
+
 #If you have not cloned (Our case) an existing repository and want to connect your repository to a remote server, you need to add it with
 
 $git remote add origin https://github.com/yourusername/MyFirst.git
@@ -167,22 +181,8 @@ Replace the URL with the repository you created in step 3.3
 
  Now you are able to push your changes to the selected remote server i.e. your remote repository on GitHub.
  Your changes are now in the HEAD of your local working copy. To send those changes to your remote repository, execute 
+ ```
  $git push -u origin master
 ```
-# Troubleshooting
-You could encounter errors if you do not follow the exact procedure as described above.
-```
-error: failed to push some refs to 'git@github.com:myrepo.git'
 
-Solution:
-
-$ git pull origin master
-```
-
-```
-fatal: refusing to merge unrelated histories
-
-Solution:
-
-$ git pull --allow-unrelated-histories origin master
-```
+That's it we are done with the first lesson covering 
