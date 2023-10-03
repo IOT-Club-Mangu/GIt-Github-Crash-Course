@@ -1,8 +1,8 @@
-Tutorial for HackYourFuture Git basics :octocat:. This tutorial has three sections:
+## TUTORIAL FOR GIT & GITHUB  BASICS  :octocat:. This tutorial has three sections:
 
-1.Git
-2.GitHub
-3.Using Git
+* Git
+* GitHub
+* Using Git
 
 For a more in depth understanding of today lesson visit these links 
 
