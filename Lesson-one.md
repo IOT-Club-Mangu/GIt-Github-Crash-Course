@@ -1,4 +1,5 @@
 Tutorial for  Git basics :octocat:. This tutorial has three sections:
+
 ![git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/a8ba92da-659e-46d9-a84a-8dd51acd6b3f)
 ![github](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/c3711e7f-d0d8-4646-afaf-e585085c06ea)
 
@@ -26,6 +27,8 @@ https://dzone.com/articles/top-20-git-commands-with-examples
 
 ## 1.1 Understanding Git and Github 
 Most of the the times you've heard fellow developers  🗣️ talking about collaboration and are often wondering 🤔 what is that but worry no more after this lesson youll be git and github "pro" 😎 coder 
+
+
 ![setting-git](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/b951d840-6e25-4c4d-aefe-4224c53de2f1)
 
 
@@ -210,5 +213,7 @@ Replace the URL with the repository you created in step 3.3
 ```
 
 That's it we are done with the first lesson covering  Basics of Git ,Github and Vscode integration and are ready to be a kickass developer 
+
+
 ![ending](https://github.com/IOT-Club-Mangu/GIt-Github-Crash-Course/assets/98217039/28022b03-81e0-410e-bc11-5822ccef9ee7)
 
