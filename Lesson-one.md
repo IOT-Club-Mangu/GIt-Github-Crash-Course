@@ -56,17 +56,17 @@ He was a key figure in collaboration today as we know it
 When creating a software ,it is a series of small milestones where each milestone 🪨 is wring code and a bunch of different  files your app will constantly move from a state of chaos 🔥 to stability 🌊 and gives you a way to track these changes and create branches that you can experiment 🧪 on and merge them later
 
 it is used for 
-*Tracking code changes
-*Tracking who made changes
-*Coding collaboration
+* Tracking code changes
+* Tracking who made changes
+* Coding collaboration
 
 What does Git do? 🤔
-Manage projects with Repositories
-Clone a project to work on a local copy
-Control and track changes with Staging and Committing
-Branch and Merge to allow for work on different parts and versions of a project
-Pull the latest version of the project to a local copy
-Push local updates to the main project
+* Manage projects with Repositories
+* Clone a project to work on a local copy
+* Control and track changes with Staging and Committing
+* Branch and Merge to allow for work on different parts and versions of a project
+* Pull the latest version of the project to a local copy
+* Push local updates to the main project
 
  For Windows,
  install Git for Windows:
